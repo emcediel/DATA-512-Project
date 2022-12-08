@@ -75,19 +75,24 @@ Retrieved from Kaggle, has a [Attribution 4.0 International (CC BY 4.0) ](https:
 
 All additional data sources come from datausa.io: 
 
-**Unemployment Insurance Claims (API retrieved in notebook)**
+- **Unemployment Insurance Claims (API retrieved in notebook)**
+
 Source: https://datausa.io/about/api/
+
 Time series containing monthly employees per sector for Oklahoma county (not-seasonally adjusted) between December 2017 and April 2021. 
 
-**Employment by Industry Sector (API retrieved in notebook)**
-Source: https://api-ts-vibranium.datausa.io/tesseract/ This data has already been filtered for Oklahoma, OK in the requests URL.
+- **Employment by Industry Sector (API retrieved in notebook)**
+
+Source: https://api-ts-vibranium.datausa.io/tesseract/ 
+
+This data has already been filtered for Oklahoma, OK in the requests URL.
 Time series containing weekly unemployment insurance claims in Oklahoma county (not-seasonally adjusted) between January 2018 and September 2021.
 
-### datausa.io usage, permissions and licensing:
+### **datausa.io** usage, permissions and licensing:
 
 In the following link: https://datausa.io/about/usage/, datausa.io specifies all licence/terms of use required to use this data, they allow access to this data for educational purposes, it is presented under the following [GNU Affero General Public Licence v3.0 (GPLv3)](https://www.gnu.org/licenses/agpl-3.0.txt). The content can be copied, downloaded for own use provided that suitable acknowledgment of Data USA as source is given.
 
-**datausa.io disclaimers:**
+### **datausa.io** disclaimers:
 
 nformation on this site is provided on an "as is" and "as available" basis. Data USA makes every effort to ensure, but does not guarantee, the accuracy or completeness of the information on the Data USA website(s). Our goal is to keep this information timely and accurate. If errors are brought to our attention, we will try to correct them.
 
