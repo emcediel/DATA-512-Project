@@ -41,15 +41,16 @@ Three csv files were created, each contains data from the original raw files, fi
 ### Output files (results)
 
 9 graphs were created:
-*Bar plot of post-pandemic percentage of recovered layoffs by sector.png*: Self-explanatory title.
-*Box plot: Post-pandemic YoY monthly growth of all sectors Post-pandemic YoY monthly growth of all sectors.png*: Self-explanatory title.
-*Box Plot: Pre vs. post pandemic YoY weekly growth of unemployment claims.png*: Self-explanatory title.
-*Box Plot: Pre vs. post vs. new-normal YoY weekly growth of pandemic unemployment claims.png*: Self-explanatory title.
-*Line plot of confirmed COVID cases vs. employment by sector (monthly).png*: Self-explanatory title.
-*Line plot of confirmed COVID cases vs. employment by sector YoY growth (monthly).png*: Self-explanatory title.
-*Line plot of confirmed COVID cases vs. unemployment insurance claims (weekly).png*: Self-explanatory title.
-*Normality assumption check for Weekly Unemployment Growth.png*: Self-explanatory title.
-*timeseries_rate_of_infection_for_Oklahoma, OK.png*: Time series of infection rate for Oklahoma, OK contrasted with CDC masking mandates. 
+
+- *Bar plot of post-pandemic percentage of recovered layoffs by sector.png*: Self-explanatory title.
+- *Box plot: Post-pandemic YoY monthly growth of all sectors Post-pandemic YoY monthly growth of all sectors.png*: Self-explanatory title.
+- *Box Plot: Pre vs. post pandemic YoY weekly growth of unemployment claims.png*: Self-explanatory title.
+- *Box Plot: Pre vs. post vs. new-normal YoY weekly growth of pandemic unemployment claims.png*: Self-explanatory title.
+- *Line plot of confirmed COVID cases vs. employment by sector (monthly).png*: Self-explanatory title.
+- *Line plot of confirmed COVID cases vs. employment by sector YoY growth (monthly).png*: Self-explanatory title.
+- *Line plot of confirmed COVID cases vs. unemployment insurance claims (weekly).png*: Self-explanatory title.
+- *Normality assumption check for Weekly Unemployment Growth.png*: Self-explanatory title.
+- *timeseries_rate_of_infection_for_Oklahoma, OK.png*: Time series of infection rate for Oklahoma, OK contrasted with CDC masking mandates. 
 ## Data limitations and special considerations
 
 Not all data sources have full data, some contain nulls in multiple days.  
